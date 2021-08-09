@@ -1,0 +1,5 @@
+ <i class="fas fa-home"></i>
+                    <i class="fab fa-facebook-messenger"></i>
+                    <i class="far fa-compass"></i>
+                    <i class="far fa-heart"></i>
+                    <i class="far fa-user-circle"></i>
